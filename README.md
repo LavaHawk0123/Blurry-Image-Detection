@@ -1,13 +1,13 @@
 Creating an ML pipeline to help classify images as blurred or clear
 
 ### <h1>Directory Structure:</h1>
-
+#### Code Folder Structure
     .
     ├── model.h5                   # model file stored using model.save()
     ├── train.py                   # file to train and test of the model
     ├── test.py                    # file to test the model `model.h5` 
     └── requirments.txt            # Contains all the packages that needs to be installed for the pipeline to run(Useful for new/edge computing systems)
-    
+#### Data Folder Structure
     .
     ├── data                       # Folder containing all the data
         ├── Blurred                # Class `Blurred` containing all the blurred images 
