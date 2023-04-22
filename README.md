@@ -81,3 +81,13 @@ Non-trainable params: 0
 _________________________________________________________________
 
 ```
+
+<h1> Results </h1>
+<ol>
+<li>Mean loss across epochs : 0.152376 </li>
+<li>Mean accuracy across epochs: 0.94117</li>
+<li>Loss on test data : 0.1792</li>
+<li>Accuracy on test data : 0.93013</li>
+</ol>
+
+![Model Metrics across epochs](https://user-images.githubusercontent.com/75236655/233788430-8c65320c-8f56-4210-b12e-2133b9ec2a19.png)
